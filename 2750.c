@@ -20,7 +20,7 @@ int main() {
         if(d==x)	//verifica se a soma de todos os numeros é igual ao número informado
             printf("%d eh perfeito\n", x);
         else
-            printf("%d nao eh perfeito\n", x);
+            printf("%d nao eh perfeito\n", x); 
     }
 	return 0;
 }
