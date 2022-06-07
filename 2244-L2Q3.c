@@ -2,8 +2,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-int main()
-{
+int main(){
     int n, i, u;
 
     scanf("%d",&n);	//quantos ingressos serão sorteados
